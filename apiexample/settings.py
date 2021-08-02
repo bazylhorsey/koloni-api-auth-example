@@ -27,7 +27,7 @@ SECRET_KEY = 'a819@)zd0&536k68f%n3)t1+t(d@-44ehevjps-2)#@k7bsjc^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['koloni-api-auth-example-cvg4v.ondigitalocean.app']
 
 
 # Application definition
